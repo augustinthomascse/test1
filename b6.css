@@ -1,0 +1,17 @@
+#cyan{
+    color: aliceblue;
+    background-color:rgb(23, 221, 239);
+}
+#red{
+    color: aliceblue;
+    background-color: red;
+}
+#green{
+    color: aliceblue;
+    background-color: rgb(78, 216, 78);
+}
+.signupFrm{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+}
