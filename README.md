@@ -1,2 +1,2 @@
 # test1
-augustinthomascse.github.io.
+augustinthomascse.github.io
